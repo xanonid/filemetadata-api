@@ -1,0 +1,28 @@
+{
+  "name": "filemetadata-api",
+  "version": "1.0.0",
+  "description": "## Free Code Camp File Metadata Microservice project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanonid/whoami-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xanonid/whoami-api/issues"
+  },
+  "homepage": "https://github.com/xanonid/whoami-api#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "renderme": "^0.1.0"
+  },
+  "devDependencies": {}
+}
